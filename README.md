@@ -1,6 +1,6 @@
-# BitQuest
+# PHL BitQuest
 
-[BitQuest](http://bitquest.co/) is a Minecraft mod that connects the game economics to a Bitcoin or other cryptocurrency nodes. It creates a Bitcoin wallet for every user that connects to the server, plus a common "loot" wallet used for rewards to players when killing mobs.
+[BitQuest](http://bitquest.co/) is a Minecraft mod that connects the game economics to a  PHL / Bitcoin or other cryptocurrency nodes. It creates a PHL wallet for every user that connects to the server, plus a common "loot" wallet used for rewards to players when killing mobs.
 
 Players also can purchase land plots and stacks of items, transferring coins to the loot wallet, thus redistributing the spent cryptocurrency within the players.
 
