@@ -14,7 +14,7 @@ You can use BitQuest to host your own Minecraft crypto server.
 This project is an experiment and not a commercial product, bugs can, and most likely will happen. Please report any bugs to a moderator promptly, to ensure they are fixed. Also note that your wallet is not guaranteed, and you may experience issues with your balance. For this reason, it is highly recommended that you do not deposit large amounts, or anything you do not wish to place at risk by being tied to the server. In addition, if you are caught breaking rules and are banned, you forfeit your access to your server wallet, and all funds tied to it. With this said, rules are non-negotiable, and will be strictly enforced. This server is a fair server, and anyone abusing any system set in place will be punished. Please play fair, have fun, and enjoy the server
 
 # How it works?
-## Everyone is a Bitcoin wallet
+## Everyone is a PHL wallet
 The [BitQuest](https://bitquest.co/) server and every player has a bitcoin address. Any player can receive and send bitcoin to any address inside or outside the game. This is useful for buying materials, selling crafts, trading, tipping, etcetera.
 ![A player just joined the server](http://i.imgur.com/1A6wkaB.png)
 ![The playercan see it's bitcoin balance](http://i.imgur.com/5g5pBXB.png)
@@ -24,7 +24,7 @@ Every time a player kills an enemy (mob) there is a chance to get loot. If that 
 ![A player got loot](http://i.imgur.com/cxqXmt2.png)
 
 ## Everyone can send money anywhere
-You can send Bitcoin to an external wallet with /transfer:
+You can send PHL to an external wallet with /transfer:
 ```
 /transfer <amount> <recipient-bitcoin-address>
 ```
@@ -32,7 +32,7 @@ You can send Bitcoin to an external wallet with /transfer:
 ![Player notification](http://i.imgur.com/PHmomoS.png)
 ![Player's public transaction](http://i.imgur.com/JPO4AXt.png)  
 
-Additionally, players can send Bitcoin to other players via /send:
+Additionally, players can send PHL to other players via /send:
 ```
 /send <amount> <username>
 ```
